@@ -1,0 +1,15 @@
+
+public class Chapter04 {
+	public static void main(String[] args) {
+
+		String name = "taku";
+		System.out.println(name);
+
+		name = "java";
+		System.out.println(name);
+
+		int luck_num = 1;
+		System.out.println(luck_num);
+
+	}
+}
