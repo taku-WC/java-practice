@@ -1,0 +1,8 @@
+
+public class Null01 {
+	public static void main(String[] aregs) {
+		String1 string1;
+		string1 = "あいう";
+		System
+	}
+}
