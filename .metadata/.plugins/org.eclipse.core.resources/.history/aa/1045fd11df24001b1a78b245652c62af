@@ -5,9 +5,8 @@ public class Car {
     private double fuelCost;
     // 残量（L）
     private double fuelAmount;
-//コンストラクタ「燃費」「残量」の引数を「double」型で定義します。引数をフィールドに代入します。(初期値代入）
+//コンストラクタ「燃費」「残量」の引数を「double」型で定義します。引数をフィールドに代入します。
     public Car(double fuelCost, double fuelAmount) {
-//    	フィールドとローカル変数を同じにする
         this.fuelCost = fuelCost;
         this.fuelAmount = fuelAmount;
     }

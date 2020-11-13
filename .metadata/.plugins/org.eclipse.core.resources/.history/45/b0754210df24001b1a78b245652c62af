@@ -8,9 +8,9 @@ public class Chapter09 {
         double fuelAmount = 55.0;
 //インスタンス化
 //   クラス名 インスタンス名 new クラス名（引数）
-        Car car1 = new Car(fuelCost, fuelAmount);
+        Car car = new Car(fuelCost, fuelAmount);
 //20km走る
-        car1.move(20);
-        System.out.println("残量は、" + car1.getFuelAmount() + "です");
+        car.move(20);
+        System.out.println("残量は、" + car.getFuelAmount() + "です");
     }
 }
