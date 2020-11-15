@@ -14,4 +14,5 @@
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="practice.Car"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>
