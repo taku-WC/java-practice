@@ -36,7 +36,7 @@ public class Extend01 {
         Extend01.printName(tanaka);
 	}
 
-	// 引数がHumanクラスなので、Humanクラスか、そのサブクラスなら呼び出しできる
+	// 引数がHumanクラスなので、Humanクラスか、そのサブクラスなら呼び出しでき
 	public static void printName(Human human) {
 		System.out.println("Humanクラスのメソッド：名前は、" + human.getName());
 
