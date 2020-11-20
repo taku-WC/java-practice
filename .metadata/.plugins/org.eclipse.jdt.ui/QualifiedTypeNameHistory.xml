@@ -28,6 +28,12 @@
     <fullyQualifiedTypeName name="capsule.human.HumanNoCaosule"/>
     <fullyQualifiedTypeName name="capsule.human.HumanNoCapsule"/>
     <fullyQualifiedTypeName name="capsule.human.HumanCapsule"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.ListingErrorHandler"/>
+    <fullyQualifiedTypeName name="extend.human.Student"/>
+    <fullyQualifiedTypeName name="extend.human.Employee"/>
+    <fullyQualifiedTypeName name="extend.human.Human"/>
+    <fullyQualifiedTypeName name="extend.phone.MobilePhone"/>
+    <fullyQualifiedTypeName name="practice.FlyingPhone"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
