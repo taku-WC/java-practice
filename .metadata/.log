@@ -9175,3 +9175,57 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:15:29.302
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YVBKGaEi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:15:29.304
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YVBKGaEi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:15:29.304
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:15:29.304
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YVBKGaEi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:20.063
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:20.064
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6fe37577[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:20.064
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.134
+!MESSAGE Boot LS startup time from start to initialized: 2068ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.233
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XpekGoshisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.233
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.234
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.234
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.234
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.235
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.XpekGosh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.235
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.235
+!MESSAGE buffering callback sts4.classpath.XpekGosh JavaWcp false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.236
+!MESSAGE executing callback sts4.classpath.XpekGosh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-25 19:16:22.267
+!MESSAGE executing callback sts4.classpath.XpekGosh SUCCESS [終了しました]
