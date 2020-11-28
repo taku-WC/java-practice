@@ -1,7 +1,0 @@
-package polymorphism;
-
-public class Polymorphism01 {
-	public static void main(String[] args) {
-
-	}
-}

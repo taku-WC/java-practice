@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="com.sun.tools.classfile.Annotation.Primitive_element_value"/>
     <fullyQualifiedTypeName name="java.awt.print.Printable"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.dv.ValidatedInfo"/>
-    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.java.GraphBuilderPhase.Instance"/>
     <fullyQualifiedTypeName name="classMethod.human.Human04"/>
     <fullyQualifiedTypeName name="classMethod.human.Human05"/>
@@ -14,7 +13,6 @@
     <fullyQualifiedTypeName name="exception.Exception03"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.code.Scope.ImportFilter"/>
-    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="exception.Exception04"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
@@ -36,4 +34,14 @@
     <fullyQualifiedTypeName name="extend.phone.MobilePhone"/>
     <fullyQualifiedTypeName name="practice.FlyingPhone"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Dessert"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="Map1"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="practice.Chapter14"/>
 </qualifiedTypeNameHistroy>
