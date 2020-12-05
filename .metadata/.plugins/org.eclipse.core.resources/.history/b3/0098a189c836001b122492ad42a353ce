@@ -1,0 +1,14 @@
+
+public class Task1_1 {
+	public static void main(String[] args) {
+		int num1 = 0;
+		int sum1 = 0;
+		
+		while (num1 < 100) {
+			num1 = num1 + 1;
+			sum1 = sum1 + num1;
+		}
+		
+		System.out.println("1から100までを全て足す計算: " + sum1);
+	}
+}
