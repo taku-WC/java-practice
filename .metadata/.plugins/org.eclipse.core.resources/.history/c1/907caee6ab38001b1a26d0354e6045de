@@ -1,0 +1,9 @@
+
+public class Story {
+	public static void main(String[] args) {
+		Hero hero = new Hero();
+		hero.name = "勇者";
+		hero.hp = 100;
+		System.out.println(hero.name + "が誕生した");
+	}
+}

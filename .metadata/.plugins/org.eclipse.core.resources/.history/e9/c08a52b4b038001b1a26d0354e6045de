@@ -1,0 +1,9 @@
+
+public class Slime {
+	int hp;
+	char suffix;
+	final int LEVEL = 10;
+	public void run() {
+		System.out.println("スライム" + this.suffix + "は逃げ出した！");
+	}
+}
