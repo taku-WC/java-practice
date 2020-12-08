@@ -7,6 +7,11 @@ public class Cleric {
 	int mp = 10;
 	final int MAX_MP = 10;
 
+	public void heal(Hero hero) {
+		hero.hp += 10;
+		System.out.println(this.name + "は" + hero.name + "のHPを10回復した");
+	}
+
 	public void selfAid() {
 		System.out.println(this.name + "はセルフエイドを唱えた！");
 		this.hp = this.MAX_HP;

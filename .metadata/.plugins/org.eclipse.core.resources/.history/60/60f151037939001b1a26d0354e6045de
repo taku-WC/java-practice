@@ -1,0 +1,10 @@
+
+public class Wizard {
+	String nameString;
+	int hp;
+	public void heal(Hero hero) {
+		hero.hp += 10;
+		System.out.println(hero.name + "");
+	}
+	
+}
