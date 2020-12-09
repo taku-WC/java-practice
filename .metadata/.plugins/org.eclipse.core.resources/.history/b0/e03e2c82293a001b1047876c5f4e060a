@@ -1,14 +1,11 @@
 public class Story {
 	public static void main(String[] args) {
-		Hero hero = new Hero("勇者");
-//		hero.name = "勇者";
-//		hero.hp = 100;
+		Hero hero = new Hero();
+		hero.name = "勇者";
+		hero.hp = 100;
 		System.out.println(hero.name + "が誕生した");
 
-		Hero dummy = new Hero();
-		System.out.println(dummy.name + "が誕生した");
-
-//		System.out.println(hero.hp);
+		System.out.println(hero.hp);
 
 		Sword s = new Sword();
 		s.name = "ひのきの棒";

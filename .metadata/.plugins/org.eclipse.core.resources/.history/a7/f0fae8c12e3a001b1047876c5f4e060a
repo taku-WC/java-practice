@@ -15,9 +15,8 @@ public class Hero {
 	}
 
 	public Hero() {
-		this("ダミー");
-//		this.hp = 50;
-//		this.name = "ダミー";
+		this.hp = 50;
+		this.name = "ダミー";
 	}
 
 //	public void sleep() {

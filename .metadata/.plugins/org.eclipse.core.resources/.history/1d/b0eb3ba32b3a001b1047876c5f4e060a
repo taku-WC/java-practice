@@ -6,7 +6,7 @@ public class Story {
 		System.out.println(hero.name + "が誕生した");
 
 		Hero dummy = new Hero();
-		System.out.println(dummy.name + "が誕生した");
+		System.out.println(hero.name + "が誕生した");
 
 //		System.out.println(hero.hp);
 
