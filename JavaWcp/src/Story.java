@@ -1,5 +1,10 @@
 public class Story {
 	public static void main(String[] args) {
+		SuperHero sHero = new SuperHero("オールマイト");
+		System.out.println(sHero.name + "が誕生した");
+//		sHero.sit(1);
+		sHero.attack();
+
 		Hero hero = new Hero("勇者");
 //		hero.name = "勇者";
 //		hero.hp = 100;
@@ -21,9 +26,15 @@ public class Story {
 		cleric.hp = 50;
 		cleric.heal(hero);
 
-//		Slime sm1 = new Slime();
-//		sm1.hp = 50;
-//		sm1.suffix = 'A';
+		Thief thiefA = new Thief("シーフA", 70);
+		System.out.println(thiefA.name + "が現れた！" + "HPは " + thiefA.hp);
+		Thief thiefB = new Thief("シーフB", 70);
+		System.out.println(thiefB.name + "が現れた！" + "HPは " + thiefB.hp);
+
+
+		Slime sm1 = new Slime();
+		sm1.hp = 50;
+		sm1.suffix = 'A';
 //		Slime sm2 = new Slime();
 //		sm2.hp = 50;
 //		sm2.suffix = 'B';
