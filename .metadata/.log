@@ -12485,3 +12485,33 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.ui 2 2 2020-12-10 02:43:01.468
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:25:23.427
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:25:23.429
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:25:23.430
+!MESSAGE buffering callback sts4.classpath.VqQTvTZt sample_4 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:25:23.430
+!MESSAGE executing callback sts4.classpath.VqQTvTZt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:25:23.441
+!MESSAGE executing callback sts4.classpath.VqQTvTZt SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:28:47.950
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:28:47.951
+!MESSAGE classpath=3 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:28:47.952
+!MESSAGE buffering callback sts4.classpath.VqQTvTZt sample_4 false 3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:28:47.952
+!MESSAGE executing callback sts4.classpath.VqQTvTZt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-11 17:28:47.957
+!MESSAGE executing callback sts4.classpath.VqQTvTZt SUCCESS [終了しました]
