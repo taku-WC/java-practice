@@ -3,7 +3,7 @@ public class Story {
 		SuperHero sHero = new SuperHero("オールマイト");
 		System.out.println(sHero.name + "が誕生した");
 //		sHero.sit(1);
-		sHero.attack();
+//		sHero.attack();
 
 		Hero hero = new Hero("勇者");
 //		hero.name = "勇者";
