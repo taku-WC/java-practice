@@ -1,6 +1,0 @@
-
-public class Thief {
-	String nameString;
-	int hp;
-	int mp;
-}
